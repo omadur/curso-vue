@@ -1,9 +1,9 @@
 <template>
-  <CounterComposition />
+  <ClassBind/>
 </template>
 
 <script setup>
-import CounterComposition from './components/CounterComposition.vue';
+  import ClassBind from './components/ClassBind.vue';
 </script>
 
 <style>
